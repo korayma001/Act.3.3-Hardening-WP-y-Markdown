@@ -57,7 +57,7 @@ Con este plugin su recomienda monitorizar la actividad de tu sitio. Resgistra la
 
 ## 3.1 Desactivar la edición de archivos desde el anel.
 
-La medida sirve para que " cualquier persona no edite los ficheros php", añadiendo la constante DISALLOW_FILE_EDIT en el fichero de configuración **wp-config.php**.
+La medida sirve para que <u> no cualquier persona pueda editar los ficheros php</u>", añadiendo la constante DISALLOW_FILE_EDIT en el fichero de configuración **wp-config.php**.
 
 ```php
 define( 'DISALLOW_FILE_EDIT', true );
