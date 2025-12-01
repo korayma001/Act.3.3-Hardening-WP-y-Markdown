@@ -4,7 +4,8 @@
 ## 1. Configurar un plugin de copia de seguridad.
 
 **UpdraftPlus**  
-Es un plugin de copia de seguridad y migración de WordPress. Permite hacer copias de seguridad, restaurar o migrar el sitio web a otro alojamiento o dominio. También permite programar o ejecutar copias de seguridad manualmente.
+Es un plugin de copia de seguridad y migración de WordPress. Permite hacer copias de seguridad, restaurar o migrar el sitio web a otro alojamiento o dominio. También permite programar o ejecutar copias de seguridad manualmente.  
+![UpdraftPlus](/img/updraftPlus.jpg) 
 
 ## 2.	Configurar un plugin de seguridad integral (Firewall, 2FA, Brute Force).	
 
