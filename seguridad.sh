@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # SCRIPT DE SEGURIDAD 3 Acciones
 echo "INICIO DE SCRIPT"
 echo ""
