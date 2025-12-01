@@ -3,7 +3,7 @@
 echo "INICIO DE SCRIPT"
 echo ""
 echo "Actualizacion del sistema"
-# Actualiza los índices de paquetes y luego los paquetes instalados
+# Actualizamos los índices de los paquetes y luego los paquetes instalados
 sudo apt update -y 
 sudo apt upgrade -y
 echo "------------------- Sistema actualizado ------------------."
@@ -27,3 +27,5 @@ find "$WP_DIR" -type d -exec chmod 755 {} \;
 find "$WP_DIR" -type f -exec chmod 644 {} \;
 echo "Permiso 755 a directorios y 644 a archivos asignados"
 echo "SCRIPT FINALIZADO"
+
+# Los echos encontrados de esta forma: echo "" es para simular un salto de linea como por ejemplo un intro.
